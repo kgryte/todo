@@ -1,7 +1,7 @@
 {
 	"name": "@kgryte/todo",
 	"version": "0.0.0",
-	"description": "Creates a TODO file.",
+	"description": "Creates a TODO.md file.",
 	"author": {
 		"name": "Athan Reines",
 		"email": "kgryte@gmail.com"
